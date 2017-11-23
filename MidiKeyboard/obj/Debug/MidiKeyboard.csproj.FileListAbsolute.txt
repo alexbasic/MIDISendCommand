@@ -1,0 +1,11 @@
+E:\REP\MIDISendCommand\MidiKeyboard\MidiKeyboard\bin\Debug\MidiKeyboard.exe.config
+E:\REP\MIDISendCommand\MidiKeyboard\MidiKeyboard\bin\Debug\MidiKeyboard.exe
+E:\REP\MIDISendCommand\MidiKeyboard\MidiKeyboard\bin\Debug\MidiKeyboard.pdb
+E:\REP\MIDISendCommand\MidiKeyboard\MidiKeyboard\bin\Debug\NAudio.dll
+E:\REP\MIDISendCommand\MidiKeyboard\MidiKeyboard\bin\Debug\NAudio.xml
+E:\REP\MIDISendCommand\MidiKeyboard\MidiKeyboard\obj\Debug\MidiKeyboard.csprojResolveAssemblyReference.cache
+E:\REP\MIDISendCommand\MidiKeyboard\MidiKeyboard\obj\Debug\MidiKeyboard.Form1.resources
+E:\REP\MIDISendCommand\MidiKeyboard\MidiKeyboard\obj\Debug\MidiKeyboard.Properties.Resources.resources
+E:\REP\MIDISendCommand\MidiKeyboard\MidiKeyboard\obj\Debug\MidiKeyboard.csproj.GenerateResource.Cache
+E:\REP\MIDISendCommand\MidiKeyboard\MidiKeyboard\obj\Debug\MidiKeyboard.exe
+E:\REP\MIDISendCommand\MidiKeyboard\MidiKeyboard\obj\Debug\MidiKeyboard.pdb
